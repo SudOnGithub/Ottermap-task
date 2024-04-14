@@ -1,0 +1,24 @@
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: rgba(32, 178, 171, 0.155);
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+button:focus {
+  background-color: rgba(32, 178, 171, 0.47);
+}
+
+.map-container {
+  height: 70vh;
+  width: 90%;
+  margin: 10px auto;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.buttons-container {
+  padding: 1%;
+  width: 90%;
+  margin: auto;
+}
