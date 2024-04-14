@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ottermap_task/static/css/main.a476b5bc.css",
+    "main.js": "/ottermap_task/static/js/main.71511795.js",
+    "index.html": "/ottermap_task/index.html",
+    "main.a476b5bc.css.map": "/ottermap_task/static/css/main.a476b5bc.css.map",
+    "main.71511795.js.map": "/ottermap_task/static/js/main.71511795.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a476b5bc.css",
+    "static/js/main.71511795.js"
+  ]
+}
